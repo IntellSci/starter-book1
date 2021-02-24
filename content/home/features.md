@@ -1,9 +1,9 @@
 ---
 widget: featurette
 headless: true
-weight: 20
+weight: 10
 title: Research
-subtitle: Enable_anything_ ✨
+subtitle: To Enable_anything_ ✨
 feature:
   - icon: list-alt
     icon_pack: fas
