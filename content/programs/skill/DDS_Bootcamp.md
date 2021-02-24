@@ -1,0 +1,11 @@
+Daily Data Science Boot Camp
+  - Related to an aspect of daily life
+  - Projects to address real life requirements
+  - Obtain optimal, practical, beneficial solutions
+  - Customized and self-paced hands-on project experience
+  - Individual/Group-based projects/case studies/research
+  - Completely involving Project management  
+  - Individualized Capability Enhancement
+  - Bottom-up approach of role assignment
+  - Commercialization of project results
+  - No bar on age, gender, qualification, role 
