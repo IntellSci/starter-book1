@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Research
+subtitle: Enable_anything_ ✨
 feature:
-  - icon: book-open
-    icon_pack: fas
-    name: Project Documentation
-    description: For users
-  - icon: question
-    icon_pack: fas
-    name: Knowledge Base
-    description: For teams
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
+    name: SERVICES
+    description: For social and commercial purpose
+  - icon: book-open
+    icon_pack: fas
+    name: PROGRAMS
+    description: For Self-Intelligence
+  - icon: question
+    icon_pack: fas
+    name: AWARENESS
     description: For yourself
 ---
